@@ -4,6 +4,10 @@
         System.out.println("Kliknij na przycisk zaloguj");
     }
 
-   public void lprzypomnij Haslo() {
-        System.out.println("Kliknij na przycisk przypomnij hasło");
+   public void logowanie Google() {
+        System.out.println("Podaj użytkownika");
+        System.out.println("Podaj hasło");
+        System.out.println("Kliknij na przycisk zaloguj");
     }
+
+        
